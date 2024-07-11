@@ -5,6 +5,6 @@ max_round: 10
 small_blind: 10
 ai_players:
 - name: fish_player_1
-  path: /Users/sophieagbekpenou/Desktop/projects/IntelliPoker/poker/backend/game/fish_player_setup.py
+  path: /Users/sophieagbekpenou/Desktop/projects/IntelliPoker/app/backend/game/fish_player_setup.py
 - name: fish_player_2
-  path: /Users/sophieagbekpenou/Desktop/projects/IntelliPoker/poker/backend/game/fish_player_setup.py
+  path: /Users/sophieagbekpenou/Desktop/projects/IntelliPoker/app/backend/game/fish_player_setup.py
